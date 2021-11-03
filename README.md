@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fut1leboi
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vk.com/tyrannozavrex
+- 📫 Reach me vk.com/tyrannozavrex
 
 <!---
 fut1leboi/fut1leboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
