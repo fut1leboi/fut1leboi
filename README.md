@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fut1leboi
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning reactjs
-- 📫 Reach me vk.com/tyrannozavrex
+- 📫 Reach me artemarxipov.ed@gmail.com
 - English: B2
 
 <!---
